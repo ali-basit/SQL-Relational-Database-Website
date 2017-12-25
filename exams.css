@@ -1,0 +1,55 @@
+root {display: block;}
+
+body {
+    margin: 0px;
+    font-size: 8pt;
+    font-family: "Verdana", "Tahoma", sans-serif;
+    /*background-image: url(http://mathlab.utsc.utoronto.ca/courses/cscb20w17/bretsche/assignments/a2/img/background.png);*/
+    background-repeat: repeat;
+    text-align: center;
+    background-color: lightblue;
+    
+}
+
+#central {
+    width: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border: 20px solid gray;
+    border-radius: 0px;
+    border-color: #131596;
+    overflow: hidden;
+}
+
+table {
+    list-style-position: 20;
+    position: relative;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    border-color: grey;
+}
+
+th {
+    background: #D3D3D3;
+    font-size: 12px;
+}
+
+legend {
+    font-size: 15px;
+}
+
+h2 {
+    font-size: 30px;
+    color: #131596;
+}
+
+img {
+    width: 15%;
+    height: 10%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
